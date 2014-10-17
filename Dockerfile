@@ -1,2 +1,2 @@
-FROM busybox:latest
+FROM fedora:latest
 RUN uname -a
