@@ -1,2 +1,2 @@
 FROM fedora:latest
-RUN uname -a
+RUN uname -a && env
