@@ -1,4 +1,4 @@
 FROM fedora:latest
-LABEL image=test
+LABEL purpose="atomic reactor demo"
 ENV x=y
 RUN uname -a && env
