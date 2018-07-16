@@ -1,4 +1,4 @@
-docker-hello-world
+demo-app-world
 ==================
 #
 Minimal hello world docker image
