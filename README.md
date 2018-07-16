@@ -1,7 +1,7 @@
 demo-app-world
 ==================
 #
-Minimal hello world docker image
+demo application docker image
 
 # Usage
 
