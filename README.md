@@ -1,6 +1,6 @@
 demo-app-world
 ==================
-#hello webinar people
+#hello everyone
 demo application docker image
 
 # Usage
