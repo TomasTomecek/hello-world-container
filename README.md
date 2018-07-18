@@ -1,6 +1,6 @@
 demo-app-world
 ==================
-# hello
+# 
 demo application docker image
 
 # Usage
