@@ -1,7 +1,7 @@
-docker-hello-world
+demo-app-world
 ==================
-
-Minimal hello world docker image
+# hello webinar!!!!!!!
+demo application docker image
 
 # Usage
 
